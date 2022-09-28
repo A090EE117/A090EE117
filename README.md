@@ -19,7 +19,9 @@
     
     
   #第二份作業: robots.txt
- -完成CTF Web101|web-2: Easy_Robots.txt解題![螢幕擷取畫面 2022-09-28 200137](https://user-images.githubusercontent.com/114581791/192776108-83337dc9-9f59-488c-8d50-14d8f0709cc5.png)
+  
+ -完成CTF Web101|web-2: Easy_Robots.txt解題!
+   [螢幕擷取畫面 2022-09-28 200137](https://user-images.githubusercontent.com/114581791/192776108-83337dc9-9f59-488c-8d50-14d8f0709cc5.png)
 
  -完成 google網站的robots.txt--->https://www.google.com/robots.txt
  -資料來源
